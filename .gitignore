@@ -1,0 +1,11 @@
+mmdetection
+mmpose
+checkpoints
+.idea
+.ipynb_checkpoints
+__pycache__
+
+*.png
+*.pth
+*.mp4
+*Identifier

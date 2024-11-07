@@ -1,0 +1,53 @@
+[
+    {
+        "collection": "scene8",
+        "frames": [
+            35,
+            40,
+            45,
+            50,
+            55,
+            60
+        ],
+        "cow_root": {
+            "location": [
+                -0.19947674870491028,
+                0,
+                1.2523807413344912e-7
+            ],
+            "rotation_quaternion": [
+                0.9328087568283081,
+                -3.055091042369895e-7,
+                3.716067453751748e-8,
+                0
+            ]
+        },
+        "materials": [
+            "Brown"
+        ],
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\8.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\pizzo_pernice_4k.exr",
+            "rotation_euler": [
+                0.18500488996505737,
+                -0.7051128149032593,
+                -0.5794492959976196
+            ],
+            "strength": 1
+        },
+        "camera": {
+            "location": [
+                5.921383857727051,
+                -1.8466299772262573,
+                1.4649616479873657
+            ],
+            "rotation_euler": [
+                1.462120771408081,
+                0,
+                1.5451050996780396
+            ]
+        }
+    }
+]

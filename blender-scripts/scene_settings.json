@@ -1,0 +1,664 @@
+[
+    {
+        "collection": "scene0",
+        "frames": [
+            0,
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80
+        ],
+        "cow_root": {
+            "location": [
+                -0.6697399616241455,
+                0,
+                4.204848096378555e-7
+            ],
+            "rotation_quaternion": [
+                0.9328087568283081,
+                -3.055091042369895e-7,
+                3.716067453751748e-8,
+                0
+            ]
+        },
+        "materials": [
+            "Original",
+            "Brown",
+            "White",
+            "Original_White",
+            "Brown_White"
+        ],
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\0.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\evening_meadow_4k.exr",
+            "rotation_euler": [
+                0.7731807827949524,
+                1.3020155429840088,
+                0
+            ],
+            "strength": 5
+        },
+        "camera": {
+            "location": [
+                6.934477806091309,
+                -0.567044734954834,
+                2.016144037246704
+            ],
+            "rotation_euler": [
+                1.4630913734436035,
+                -5.920300338857487e-8,
+                1.5707963705062866
+            ]
+        }
+    },
+    {
+        "collection": "scene2",
+        "frames": [
+            0,
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100,
+            110,
+            120,
+            130,
+            140
+        ],
+        "cow_root": {
+            "location": [
+                -0.6697399616241455,
+                0,
+                4.204848096378555e-7
+            ],
+            "rotation_quaternion": [
+                0.9328087568283081,
+                -3.055091042369895e-7,
+                3.716067453751748e-8,
+                0
+            ]
+        },
+        "materials": [
+            "Original",
+            "Brown",
+            "White",
+            "Original_White",
+            "Brown_White"
+        ],
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\2.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\overcast_soil_puresky_4k.exr",
+            "rotation_euler": [
+                1.2042770385742188,
+                1.9582593441009521,
+                0
+            ],
+            "strength": 5
+        },
+        "camera": {
+            "location": [
+                11.108087539672852,
+                -1.7524324655532837,
+                1.9575519561767578
+            ],
+            "rotation_euler": [
+                1.457517385482788,
+                -5.890601784130922e-8,
+                1.5707963705062866
+            ]
+        }
+    },
+    {
+        "collection": "scene3",
+        "frames": [
+            0,
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80
+        ],
+        "cow_root": {
+            "location": [
+                -0.6697399616241455,
+                0,
+                4.204848096378555e-7
+            ],
+            "rotation_quaternion": [
+                0.9328087568283081,
+                -3.055091042369895e-7,
+                3.716067453751748e-8,
+                0
+            ]
+        },
+        "materials": [
+            "Original",
+            "Brown",
+            "White",
+            "Original_White",
+            "Brown_White"
+        ],
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\3.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\scythian_tombs_2_4k.exr",
+            "rotation_euler": [
+                0.7679448127746582,
+                0.3490658402442932,
+                0
+            ],
+            "strength": 1
+        },
+        "camera": {
+            "location": [
+                8.086649894714355,
+                -2.374967098236084,
+                1.6400210857391357
+            ],
+            "rotation_euler": [
+                1.4844555854797363,
+                -6.006775521427699e-8,
+                1.5707963705062866
+            ]
+        }
+    },
+    {
+        "collection": "scene4",
+        "frames": [
+            0,
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100
+        ],
+        "cow_root": {
+            "location": [
+                -0.6697399616241455,
+                0,
+                4.204848096378555e-7
+            ],
+            "rotation_quaternion": [
+                0.9328087568283081,
+                -3.055091042369895e-7,
+                3.716067453751748e-8,
+                0
+            ]
+        },
+        "materials": [
+            "Original",
+            "Brown",
+            "White",
+            "Original_White",
+            "Brown_White"
+        ],
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\4.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\scythian_tombs_2_4k.exr",
+            "rotation_euler": [
+                0.4380775988101959,
+                1.0437068939208984,
+                0
+            ],
+            "strength": 1
+        },
+        "camera": {
+            "location": [
+                5.434963226318359,
+                -1.8574671745300293,
+                1.0885837078094482
+            ],
+            "rotation_euler": [
+                1.5206046104431152,
+                -6.160829713053317e-8,
+                1.5451050996780396
+            ]
+        }
+    },
+    {
+        "collection": "scene5",
+        "frames": [
+            0,
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100,
+            110,
+            120,
+            130
+        ],
+        "cow_root": {
+            "location": [
+                -0.6697399616241455,
+                0,
+                4.204848096378555e-7
+            ],
+            "rotation_quaternion": [
+                0.9198707342147827,
+                -3.9230658899214177e-7,
+                8.735197098985736e-8,
+                -0.154822438955307
+            ]
+        },
+        "materials": [
+            "Original",
+            "Brown",
+            "White",
+            "Original_White",
+            "Brown_White"
+        ],
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\5.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\misty_farm_road_4k.exr",
+            "rotation_euler": [
+                -0.9232791662216187,
+                -2.0141096115112305,
+                0
+            ],
+            "strength": 1.5
+        },
+        "camera": {
+            "location": [
+                7.86975622177124,
+                -2.292039155960083,
+                0.7977170348167419
+            ],
+            "rotation_euler": [
+                1.623802900314331,
+                0.0033808238804340363,
+                1.5453284978866577
+            ]
+        }
+    },
+    {
+        "collection": "scene6",
+        "frames": [
+            0,
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100,
+            110
+        ],
+        "cow_root": {
+            "location": [
+                -0.6697399616241455,
+                0,
+                4.204848096378555e-7
+            ],
+            "rotation_quaternion": [
+                0.9328087568283081,
+                -3.055091042369895e-7,
+                3.716067453751748e-8,
+                0
+            ]
+        },
+        "materials": [
+            "Original",
+            "Brown",
+            "White",
+            "Original_White",
+            "Brown_White"
+        ],
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\6.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\pizzo_pernice_4k.exr",
+            "rotation_euler": [
+                0.18500488996505737,
+                -0.35081103444099426,
+                -0.5794492959976196
+            ],
+            "strength": 1
+        },
+        "camera": {
+            "location": [
+                5.434963226318359,
+                -1.8574671745300293,
+                1.0885837078094482
+            ],
+            "rotation_euler": [
+                1.462120771408081,
+                0,
+                1.5451050996780396
+            ]
+        }
+    },
+    {
+        "collection": "scene7",
+        "frames": [
+            0,
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100,
+            110
+        ],
+        "cow_root": {
+            "location": [
+                -0.6697399616241455,
+                0,
+                4.204848096378555e-7
+            ],
+            "rotation_quaternion": [
+                0.9328087568283081,
+                -3.055091042369895e-7,
+                3.716067453751748e-8,
+                0
+            ]
+        },
+        "materials": [
+            "Original",
+            "Brown",
+            "White",
+            "Original_White",
+            "Brown_White"
+        ],
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\7.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\pizzo_pernice_4k.exr",
+            "rotation_euler": [
+                -0.10646507143974304,
+                -0.35081103444099426,
+                -0.5794492959976196
+            ],
+            "strength": 0.8999999761581421
+        },
+        "camera": {
+            "location": [
+                5.712867259979248,
+                -1.8797297477722168,
+                2.5324079990386963
+            ],
+            "rotation_euler": [
+                1.261780023574829,
+                2.1357889068429614e-10,
+                1.5451050996780396
+            ]
+        }
+    },
+    {
+        "collection": "scene0",
+        "frames": [
+            0,
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100,
+            110
+        ],
+        "cow_root": {
+            "location": [
+                -0.6697399616241455,
+                2.3497016429901123,
+                4.204848096378555e-7
+            ],
+            "rotation_quaternion": [
+                0.05055201053619385,
+                5.311247264216945e-7,
+                -3.0304630627142615e-7,
+                0.9314380288124084
+            ]
+        },
+        "materials": [
+            "Original",
+            "Brown",
+            "White",
+            "Original_White",
+            "Brown_White"
+        ],
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\0.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\evening_meadow_4k.exr",
+            "rotation_euler": [
+                0.7731807827949524,
+                1.3020155429840088,
+                0
+            ],
+            "strength": 5
+        },
+        "camera": {
+            "location": [
+                6.934477806091309,
+                -0.567044734954834,
+                2.016144037246704
+            ],
+            "rotation_euler": [
+                1.4630913734436035,
+                -5.920300338857487e-8,
+                1.5707963705062866
+            ]
+        }
+    },
+    {
+        "collection": "scene3",
+        "frames": [
+            0,
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100,
+            110,
+            120,
+            130,
+            140
+        ],
+        "cow_root": {
+            "location": [
+                -0.6697399616241455,
+                5.352319240570068,
+                4.204848096378555e-7
+            ],
+            "rotation_quaternion": [
+                0.07531654834747314,
+                5.220293246566143e-7,
+                -3.0151124974509e-7,
+                0.9297632575035095
+            ]
+        },
+        "materials": [
+            "Original",
+            "Brown",
+            "White",
+            "Original_White",
+            "Brown_White"
+        ],
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\3.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\scythian_tombs_2_4k.exr",
+            "rotation_euler": [
+                0.7679448127746582,
+                0.3490658402442932,
+                0
+            ],
+            "strength": 1
+        },
+        "camera": {
+            "location": [
+                8.086649894714355,
+                -2.374967098236084,
+                1.6400210857391357
+            ],
+            "rotation_euler": [
+                1.4844555854797363,
+                -6.006775521427699e-8,
+                1.5707963705062866
+            ]
+        }
+    },
+    {
+        "collection": "scene7",
+        "frames": [
+            0,
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100
+        ],
+        "cow_root": {
+            "location": [
+                0.14462071657180786,
+                3.328503370285034,
+                0.000002090519956254866
+            ],
+            "rotation_quaternion": [
+                0.014445638284087181,
+                5.436903620648081e-7,
+                -3.048969858809869e-7,
+                0.9326968789100647
+            ]
+        },
+        "materials": [
+            "Original",
+            "Brown",
+            "White",
+            "Original_White",
+            "Brown_White"
+        ],
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\7.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\pizzo_pernice_4k.exr",
+            "rotation_euler": [
+                -0.10646507143974304,
+                -0.35081103444099426,
+                -0.5794492959976196
+            ],
+            "strength": 0.8999999761581421
+        },
+        "camera": {
+            "location": [
+                5.712867259979248,
+                -1.8797297477722168,
+                2.5324079990386963
+            ],
+            "rotation_euler": [
+                1.261780023574829,
+                2.1357889068429614e-10,
+                1.5451050996780396
+            ]
+        }
+    },
+    {
+        "collection": "scene8",
+        "frames": [
+            35,
+            40,
+            45,
+            50,
+            55,
+            60
+        ],
+        "cow_root": {
+            "location": [
+                -0.19947674870491028,
+                0,
+                1.2523807413344912e-7
+            ],
+            "rotation_quaternion": [
+                0.9328087568283081,
+                -3.055091042369895e-7,
+                3.716067453751748e-8,
+                0
+            ]
+        },
+        "materials": [
+            "Brown"
+        ]
+        ,
+        "background": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\backgrounds\\8.png"
+        },
+        "env": {
+            "file": "C:\\Users\\Ali Goldani\\projects-win\\blender\\Blender_Reqs\\HDRIs\\pizzo_pernice_4k.exr",
+            "rotation_euler": [
+                0.18500488996505737,
+                -0.7051128149032593,
+                -0.5794492959976196
+            ],
+            "strength": 1
+        },
+        "camera": {
+            "location": [
+                5.921383857727051,
+                -1.8466299772262573,
+                1.4649616479873657
+            ],
+            "rotation_euler": [
+                1.462120771408081,
+                0,
+                1.5451050996780396
+            ]
+        }
+    }
+]
